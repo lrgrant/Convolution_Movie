@@ -7,7 +7,7 @@
 %
 %  functions used:
 %       exponential
-%       parabolic
+%       polynomial
 %       sin (made positive)
 %
 %
