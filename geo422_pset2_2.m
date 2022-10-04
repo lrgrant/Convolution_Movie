@@ -11,7 +11,7 @@
 %       sin (made positive)
 %
 %
-%   last edited by ------ 4 October 2022
+%   last edited by lrgrant 4 October 2022
 
 N = 24;
 convolution_movie(N)
